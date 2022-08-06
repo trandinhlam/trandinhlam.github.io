@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Thực hành Pytorch: RepVGG + ImageNet + Knowledge Distillation"
+date:   2022-08-06
+categories: neuron-network
+---
+
+# RepVGG
+## Lý thuyết:
++ Papers:
+    + Distilling the Knowledge in a Neural Network (2015) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean
+    + RepVGG Making vgg-style convnets great again (2021)
+
+## Thực hành:
+### Notebook: 
++ [Notebook Keras][notebook-keras]
++ [Notebook Pytorch][]
+
+### Mục tiêu: 
++ Train mạng RepVGG net với model nhỏ, 
++ Trên tập dataset ImageNet 1000 class (hoặc tiny-imagenet 200 class) 
++ Môi trường: Google Colab Pro
++ Phương pháp sử dụng: Knowledge Distillation
+
+
+### Các bước thực hiện:
+
++ Download dataset tiny-imagenet vào folder
+
+{% highlight ruby %}
+!wget http://cs231n.stanford.edu/tiny-imagenet-200.zip
+!unzip tiny-imagenet-200.zip
+{% endhighlight %}
+
++ Import các thư viện cần thiết 
+
+
+### Tài liệu tham khảo:
++ https://viblo.asia/p/xay-dung-mo-hinh-repvgg-tren-tf2-GrLZD1DElk0
++ 
+
+
+[notebook-keras]: !https://colab.research.google.com/drive/1SHkBxOdOQ008HLHsNHiGRFLbFeNxjSx3?usp=sharing
