@@ -15,7 +15,7 @@ categories: neuron-network
 + code gốc tham khảo: https://github.com/DingXiaoH/RepVGG
 ### Notebook: 
 + [Notebook Keras][notebook-keras]
-+ [Notebook Pytorch][]
++ [Notebook Pytorch][notebook-pytorch]
 
 ### Mục tiêu: 
 + Train mạng RepVGG net với model nhỏ, 
@@ -460,7 +460,7 @@ validate(val_loader, model, criterion, False)
 
 ### Tài liệu tham khảo:
 + https://viblo.asia/p/xay-dung-mo-hinh-repvgg-tren-tf2-GrLZD1DElk0
-+ 
 
 
 [notebook-keras]: !https://colab.research.google.com/drive/1SHkBxOdOQ008HLHsNHiGRFLbFeNxjSx3?usp=sharing
+[notebook-pytorch]: !https://colab.research.google.com/drive/1GRrcwRCI0AFarl1AlwEpshiudsKZ7iZ1?usp=sharing
