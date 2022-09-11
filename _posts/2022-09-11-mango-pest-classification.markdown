@@ -10,7 +10,7 @@ categories: neuron-network
 + Author: tdlam123@gmail.com
 
 # Giới thiệu:
-Mình sinh ra và lớn lên ở vùng đất Cam Lâm, nơi có rất nhiều giống xoài ngon và và mang lại giá trị kinh tế cao cho người dân địa phương quê mình.
+Mình sinh ra và lớn lên ở vùng đất Cam Lâm, Khánh Hòa, nơi có rất nhiều giống xoài ngon và và mang lại giá trị kinh tế cao cho người dân địa phương quê mình.
 Hôm nay trong lúc họp hành với nhóm học trên trường mình có ý tưởng xây dựng một hệ thống nông nghiệp thông minh hỗ trợ người dân chăm sóc xoài.
 Lục lọi các paper và một số mô hình sẵn có, mình đã thử thực hành vài bước cơ bản để đưa mô hình Machine Learning ra ứng dụng vào ý tưởng hệ thống nông nghiệp thông minh này.
 
