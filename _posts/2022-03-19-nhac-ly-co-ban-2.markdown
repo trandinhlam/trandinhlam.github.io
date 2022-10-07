@@ -96,6 +96,6 @@ Sau phép biến đổi Fourier (mình sẽ trình bày trong bài viết khác)
 # Kết:
 Trên đây là một số diễn giải trong hiểu biết của mình về cao độ trong âm nhạc. Cảm ơn bạn đã đọc bài viết. Bài tiếp theo mình sẽ viết về các thành tố khác trong âm nhạc là cường độ và âm sắc.
 
-# Tài liệu:
+# Tài liệu Tham khảo:
 + https://en.wikipedia.org/wiki/Pitch_(music)
  + The Basic Elements of Music - Catherine Schmidt-Jones http://textbookequity.org/category/music/
