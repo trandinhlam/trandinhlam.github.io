@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mạng neural nhân tạo cơ bản"
+title:  "Perceptron: mạng neural nhân tạo cơ bản"
 date:   2022-10-07
 categories: nnetwork
 ---
@@ -11,11 +11,7 @@ Học sâu (Deep Learning) là một lĩnh vực hẹp của machine learning ra
 nhưng mới phát triển mạnh mẽ gần đây nhờ vào lượng dữ liệu lớn khổng lồ sản sinh ra từ những hoạt động của con người trên không gian mạng và ngoài đời thực,
 cộng thêm sự gia tăng không ngừng về năng lực tính toán và lưu trữ của các thiết bị máy tính hiện đại.
 
-::: center
 ![Mối liên hệ giữa trí tuệ nhân tạo, học máy và học sâu](https://editor.analyticsvidhya.com/uploads/945011.png)
-
-{Mối liên hệ giữa trí tuệ nhân tạo, học máy và học sâu}
-:::
 
 
 Học sâu có thể thực hiện cả việc học có giám sát, không giám sát và bán giám sát,
@@ -35,21 +31,46 @@ Thuật toán học perceptron là một phương pháp học máy đơn giản,
 Perceptron dùng để phân loại nhị phân khi dữ liệu chỉ có 2 phân lớp được gán nhãn từ trước, với vector đặc trưng có thể là nhiều chiều.
 Giả sử mỗi lớp bao gồm các vector chiếm một vùng nào đó trong không gian vector, nhiệm vụ của perceptron là tìm ra ranh giới phân tách 2 lớp dữ liệu đó,
 tức một đường thẳng trong không gian 2 chiều, một mặt phẳng trong không gian 3 chiều, hay một siêu phẳng trong không gian nhiều chiều.
-Công thức tổng quát cho một siêu phẳng được thể hiện như phương trình \ref{eqn:perceptron}:
-\begin{equation}
-    \label{eqn:perceptron}
-    f_{w}(X) = \omega_{1}x_{1} + \ldots + \omega_{d}x_{d} + \omega_0 = X^TW +  \omega_0 = 0
-\end{equation}
-Trong đó:
-\begin{itemize}
-    \item $x_1, x_2, \ldots,x_d$ là giá trị của mỗi điểm dữ liệu $d$ chiều trong tập dữ liệu, nên $X^T$ coi như là vector đặc trưng của điểm dữ liệu đó.
-    \item $\omega_1, \omega_2, \ldots,\omega_d$ là các giá trị trọng số theo từng chiều, nên $W$ là vector trong số của siêu phẳng.
-    \item $\omega_0$ là hệ số điều chỉnh để dịch chuyển gốc tọa độ.
-\end{itemize}
+Công thức tổng quát cho một siêu phẳng được thể hiện như phương trình:
 
-## Gradient Descent - thuật toán tối ưu phổ biến
+![Phương trình siêu phẳng perceptron]({{ "/assets/images/perceptron/perceptron1.png" | relative_url }})
+
+Với đường phẳng phân cách 2 lớp riêng biệt, nhãn của một điểm dữ liệu X bất kỳ được xác định bởi công thức:
+
+![Phương trình siêu phẳng perceptron]({{ "/assets/images/perceptron/perceptron1_labelx.png" | relative_url }})
+
+Chẳng hạn trong không gian 2 chiều, hình sau minh họa đường thẳng phân cách 2 phân lớp xanh và đỏ:
+
+![Phương trình siêu phẳng perceptron]({{ "/assets/images/perceptron/pla.png" | relative_url }})
+
+Cấu trúc cơ bản của siêu phẳng perceptron được đề xuất bởi Rosen-blatt(1958). 
+Theo đó, vector đầu vào X sau khi nhân với vector trọng số W sẽ đi qua một hàm kích hoạt (Activation function) để cho ra output. 
+Trong trường hợp phân lớp trong không gian 2 chiều thì hàm kích hoạt là hàm sgn().
+
+![Phương trình siêu phẳng perceptron]({{ "/assets/images/perceptron/Rosenblatt-1958.png" | relative_url }})
+
+
+### Hàm mất mát của perceptron:
+
+Khi một vài điểm dữ liệu bị phân lớp lỗi, tức điểm xanh vuông ( _f<sub>w</sub>(X<sub>i</sub> > 0_) nằm bên
+vùng đỏ ( _f<sub>w</sub>(X<sub>i</sub>) < 0_) hoặc ngược lại, tập hợp các điểm bị lỗi đó thành một tập _E_. Giả sử
+ta tính độ lỗi phân lớp của thuật toán bằng cách đếm được số lượng phần tử sai, thì hàm
+mất mát sẽ là:     
+![Phương trình siêu phẳng perceptron]({{ "/assets/images/perceptron/loss.png" | relative_url }})
+
+với yi là nhãn thật của điểm dữ liệu. Mỗi điểm sai có giá trị mất mát là hằng số 1 nên
+_L(E)_ là tổng số điểm dữ liệu bị sai. Điều này dẫn tới sự thiếu công bằng khi đánh giá các
+điểm sai là như nhau mà không quan tâm đến vị trí hay mức độ sai lệch của điểm dữ liệu
+so với đường phân cách. Vì vậy ta cần thay thế giá trị hằng số 1 bằng giá trị khác, chẳng
+hạn giá trị _−y<sub>i</sub>fw(x<sub>i</sub>)_ vì tỉ lệ thuận với khoảng cách từ điểm x đến đường phân cách. Khi
+điểm dữ liệu lỗi nằm xa đường biên giới, mất mát sẽ nhiều hơn so với các điểm lỗi gần
+đường biên giới. Khi đó hàm mất mát được viết lại như sau:
+
+Hàm mất mát trên là một hàm liên tục, đạt cực tiểu = 0 khi không còn điểm lỗi trong
+tập E. Vì vậy ta có thể tối ưu hàm này bằng phương pháp phổ biến là Gradient Descent.
+
+
 
 ## Tài liệu Tham khảo:
 + https://en.wikipedia.org/wiki/Gradient_descent
 + https://machinelearningcoban.com/2017/01/12/gradientdescent/
-+ 
