@@ -1,7 +1,16 @@
 ---
 layout: post
-title:  "Các CNN model thời thượng"
+title:  "Neural Network: Các CNN model thời thượng"
 date:   2022-10-16
 categories: nnetwork
 ---
 
+## Mở đầu
+
+Kể từ sau năm 2010 đến nay, ngoài mạng AlexNet đã đề cập ở phần 2.2.1, có rất
+nhiều mô hình học sâu đã ra đời với khả năng trích lọc đặc trưng thị giác cực kỳ tốt và
+đa dạng. Trong đó một số mô hình nổi bật với cấu trúc đặc trưng tương đối phức tạp, có
+thể ứng dụng cho nhiều dạng bài toán xử lý thông tin hình ảnh.
+Bài viết này trình bày kiến trúc và đặc điểm của một vài model thời thượng trong 10 năm gần đây:
+
+#  
