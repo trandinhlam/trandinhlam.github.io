@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Các CNN model thời thượng"
+date:   2022-10-16
+categories: nnetwork
+---
+
