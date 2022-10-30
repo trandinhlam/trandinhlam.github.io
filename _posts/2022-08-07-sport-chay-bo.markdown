@@ -25,3 +25,15 @@ Mình chỉ việc chiến đấu liên tục với chính mình mà thôi, cũn
 Hi vọng ở lần đầu tiên của mình không có nhiều trục trặc, để mình có thể hoàn thành cự ly trong thời gian cho phép. Chỉ ngại cái duy nhất chấn thương giữa đường để rồi phải đi bộ thì oải quá.
 Sau khi chạy mình sẽ up hình và ghi lại trải nghiệm của mình tiếp tục. 
 
+# Chủ nhật 30-10-2022
+
+Thức dậy sớm từ 4h30 sáng để chuẩn bị đi. Tối hôm trước mình cố gắng ngủ sớm nhưng giấc ngủ không đều, ngắt quãng, may mà vẫn kịp hồi phục các nhóm cơ đùi bị đau.
+
+Sáng ra không khí ở công ty khá tốt, trời có mây ít nắng nên lúc chạy đỡ mệt hơn.
+
+15km đầu khá là thoải mái với mình vì chân còn chịu được. Tuy nhiên kể từ km thứ 18 thì chân đã mỏi lừ mặt dù nhịp tim vẫn còn thấp. Kết quả là ở km thứ 20 mình phải chạy thật chậm cho đến đi bộ vì không muốn bị chấn thương ảnh hưởng đến hôm sau đá bóng.
+Mình lết về đích khá trễ, trễ hơn so với dự định khoảng 10 phút, nhưng vẫn rất vui vì đã hoàn thành và nhận huy chương.
+Sau đó mình và người yêu lấy xe đi về một mạch luôn, vì không quan 
+tâm lắm đến những hoạt động bên lề khác.
+
+
