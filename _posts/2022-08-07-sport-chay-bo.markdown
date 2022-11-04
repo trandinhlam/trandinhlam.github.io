@@ -38,6 +38,15 @@ tâm lắm đến những hoạt động bên lề khác.
 
 # Tổng kết hình - còn hình chụp giải thì phải chờ mọi người và BTC up chứ mình không chụp:
 
+[Link tổng hợp hình](https://drive.google.com/file/d/13jaflmZnP5BlzHiO-H2poam-SROo-RTN/view?usp=share_link)
+
+
+Các thành viên team mình tham gia chạy:            
+![uprace]({{ "/assets/images/uprace/c7b2838d15e3d3bd8af26.jpg" | relative_url }})
+
+Chỗ quay đầu ở Km thứ 6:                 
+![uprace]({{ "/assets/images/uprace/562A6946_1667209069 (1).jpeg" | relative_url }})
+
 ![uprace]({{ "/assets/images/uprace/dd6e8aae5dcd9b93c2dc.jpg" | relative_url }})
 
 ![uprace]({{ "/assets/images/uprace/5203824b55289376ca39.jpg" | relative_url }})
@@ -47,4 +56,3 @@ tâm lắm đến những hoạt động bên lề khác.
 ![uprace]({{ "/assets/images/uprace/823cf4712212e44cbd034.jpg" | relative_url }})
 
 ![uprace]({{ "/assets/images/uprace/b3ce1f8419e4dfba86f51.jpg" | relative_url }})
-
