@@ -6,18 +6,61 @@ categories: misc
 ---
 Tối hôm 01-01-2023, sau một năm tập quản lý thời gian, mình ngồi viết code để gộp đủ hình ảnh của thời gian biểu của 52 tuần trong năm 2022 vừa qua. Để có được dữ liệu, mình đã dùng Atracker để track toàn bộ thời gian của mình mỗi ngày, không sót phút giây nào. Mục đích của mình là để quản lý thời gian thật chặt chẽ, thậm chí đến mức cực đoan khắc khổ. Và dưới đây là kết quả.
 
-# Trực quan hóa thời gian biểu của mình trong 4 quý-12 tháng-52 tuần - 365 ngày - 8750 giờ của năm 2022:            
+# Trực quan hóa thời gian biểu của mình trong (4 quý - 12 tháng - 52 tuần - 365 ngày - 8750 giờ) của năm 2022:       
 
 ![my2022]({{ "/assets/images/my2022/all4Q.png" | relative_url }})
 
-# Phân bổ các loại hoạt động trong năm:
+# Phân bổ các loại hoạt động trong năm 2022:
 
 ![my2022]({{ "/assets/images/my2022/my2022_pie.jpg" | relative_url }})
 
-# Các sự kiện nổi bật đã diễn ra trong năm:
+*ghi chú và giải thích:
++ Màu xanh lá cây là thời gian ngủ, chiếm 35% (3061 giờ)
++ Màu xanh dương là thời gian ăn uống, vệ sinh cá nhân, nghỉ ngơi, giải trí, du lịch và thời gian ở bên gia đình, chiếm 24% (2076 giờ)
++ Màu đỏ là thời gian mình ngồi tập trung làm việc (chỉ bao gồm thời gian tập trung thực sự, tức đã trừ ra các khoảng thư giãn không làm việc giữa giờ) 22% (1900 giờ)
++ Màu cam là thời gian học tập ngoài giờ làm việc, là các kiến thức, kỹ năng về công nghệ phục vụ cho công việc (màu đỏ) mà mình quan tâm và đang theo học bao gồm luận văn thạc sĩ, các học phần cuối cùng, khóa học online, tự học, hội thảo, đọc và viết blog công nghệ, các lần thực hành công nghệ mới,... 6% (565 giờ)
++ Màu tím là thời gian đi lại trên đường, chủ yếu là đi từ nhà đến công ty và đi từ công ty về nhà, chiếm 5% (416 giờ)
++ Màu vàng là thời gian tập thể thao, bao gồm chạy bộ, đá bóng, trekking và bơi. Thời gian này cũng bao gồm cả tập luyện và thi đấu các giải đá bóng, giải chạy trong và ngoài công ty, chiếm 3% (238 giờ)
++ Màu hồng là thời gian đọc/nghe các sách kỹ năng, kinh nghiệm sống, nghiên cứu kinh tế văn hóa và viết blog cá nhân, chiếm 3% (232 giờ).
++ Màu nâu là thời gian gặp gỡ và giao lưu cho các mối quan hệ bên ngoài gia đình, bao gồm đồng nghiệp, thầy và nhóm học tập luận văn, bạn bè đã chơi thân, bạn bè trong ngành, họ hàng của người yêu,... chiếm 2% (203 giờ)
++ Còn lại là mau xanh dương, là thời gian mình chơi và tập đàn guitar, chiếm chỉ 0.5% (31 giờ)
 
+Tính tổng thì chưa đến 8760 giờ, tức là mình đã thất thoát mất khoảng 30 giờ do sai số và thiếu sót.
+
+# So sánh với nửa cuối năm 2021 (mình bắt đầu dùng ATracker vào tháng 7 nên nửa đầu năm không có dữ liệu):
+
+![my2022]({{ "/assets/images/my2022/my2021_pie.jpg" | relative_url }})
 
 # Các insight rút ra được trong thống kê này (để làm cơ sở cải thiện cho năm 2023 đang gõ cửa):
+
+# Các sự kiện nổi bật đã diễn ra trong năm 2022 (và kết quả):
+
++ Gia Đình: 
+  + Mình và người yêu về quê nhiều lần hơn các năm trước, cụ thể là 8 lần tính luôn Tết (mỗi quý 2 lần), vì đó là mục tiêu đã đề ra từ đầu năm. Mục tiêu có mặt thường trực ở nhà đã được hoàn thành trọn vẹn, với nguyên cả một năm nay mình đều cắt tóc ở gần nhà mỗi khi tóc đủ dài :)).
+  + Tháng 8 bố mẹ vào thành phố để khám sức khỏe, sẵn thăm thú và du lịch cùng 3 đứa con luôn.
++ Công việc:
+  + 
+  + <<Nhiều thứ để viết quá nên chưa viết ngay được>>
++ Học tập:
+  + Tháng 2 Đầu năm Thi VNU-EPT đạt 235 điểm để làm đầu ra tốt nghiệp
+  + Bắt đầu luận văn tốt nghiệp ngày từ đầu năm, nhưng tháng 7 mới chính thức với những ngày miệt mài nghiên cứu và viết báo cáo, nhờ sự giúp đỡ tận tình của thầy và nhóm học tập.
++ Sức khỏe:
+  + Mua Apple Watch và bắt đầu tập chạy bộ nghiêm túc vào đầu tháng 4
+  + Trekking Lảo Thẩn tháng 05, bị trễ vé máy bay
+  + Tham gia giải ICT cup vào tháng 9-10, cup nội bộ vào tháng 11 (được giải vua phá lưới)
+  + Tham gia chạy Uprace cự ly 21Km vào ngày 30-10-2022
+  + Tổng kết năm giảm cân được xuống còn 73kg
++ Trải nghiệm:
+  + Trở lại Sapa vào tháng 5 teambuilding
+  + Du lịch Đà Lạt ngắn ngày 2 lần tháng 10 và tháng 11 teambuilding
+  + Tháng 12 với một mùa Worldcup 2022 đáng xem và hấp dẫn. Cầu thủ yêu thích của mình đã lên ngôi vô địch sau một giải đấu quá hay.
+
+# Mục tiêu chung cho quỹ thời gian của năm 2023, một năm nhiều biến động do khủng hoảng kinh tế:
++ Gia đình vẫn là ưu tiên số 1
++ Công việc vẫn phải tích lũy đủ 2000 giờ thực làm mỗi năm
++ Hoàn thành được các khóa học đang theo đuổi để không uổng phí công sức đã đầu tư
++ Tối thiểu hóa thời gian đi lại để dành thời gian cho việc khác
++ Sức khỏe: 
 
 Happy new year 2023!!!
 
