@@ -10,11 +10,11 @@ Tối hôm 01-01-2023, sau một năm tập quản lý thời gian, mình ngồi
 
 ![my2022]({{ "/assets/images/my2022/all4Q.png" | relative_url }})
 
-# Phân bổ các loại hoạt động trong năm 2022:
+## Phân bổ các loại hoạt động trong năm 2022:
 
 ![my2022]({{ "/assets/images/my2022/my2022_pie.jpg" | relative_url }})
 
-*ghi chú và giải thích:
+## Ghi chú và giải thích:
 + Màu xanh lá cây là thời gian ngủ, chiếm 35% (3061 giờ)
 + Màu xanh dương là thời gian ăn uống, vệ sinh cá nhân, nghỉ ngơi, giải trí, du lịch và thời gian ở bên gia đình, chiếm 24% (2076 giờ)
 + Màu đỏ là thời gian mình ngồi tập trung làm việc (chỉ bao gồm thời gian tập trung thực sự, tức đã trừ ra các khoảng thư giãn không làm việc giữa giờ) 22% (1900 giờ)
