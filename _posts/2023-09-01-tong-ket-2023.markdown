@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Tổng kết năm 2023 - Tôi đã sử dụng 8750 giờ trong năm 2023 như thế nào? - Phần 1, tính đến 31/08/2023"
+date:   2023-09-01
+categories: misc
+---
+
+# Trực quan hóa thời gian biểu của mình trong (4 quý - 12 tháng - 52 tuần - 365 ngày - 8750 giờ) của năm 2022:       
+
+Phần này mình lười chụp hình màn hình các tuần trong năm do nhiều quá, mà cũng không nghĩ là thực sự cần thiết!
+
+# Phân bổ các loại hoạt động trong năm 2023 - Thời gian đến ngày 31/08/2023:
+
+![my2023]({{ "/assets/images/my2023/my20230901_pie.jpg" | relative_url }})
+
+## Vài kết luận nhận xét và suy nghĩ cho đoạn đường còn lại của năm:
++ Ngủ nghỉ 2005h (34%):
+  Thời gian ngủ không thay đổi quá nhiều, nằm trong mức cho phép và vẫn đảm bảo hồi phục sức khoẻ.
++ Cá nhân & gia đình 1450h (25%):
+  Phần này cũng không thay đổi nhiều về thời lượng, nhưng chất lượng thì có cải thiện đáng kể so với các năm trước.
++ Công việc 1290h (22%):
+  Thời gian dành cho công việc để kiếm tiền và cống hiến, không chênh lệch quá nhiều so với năm 2022, tuy nhiên mình lại được nghỉ ngơi nhiều hơn. Lý do là ngày 07/04 mình đã nghỉ việc ở Zalo sau 5 năm, và có một cuộc cách mạng về nhận thức và ý nghĩa cuộc sống vào khoảng thời gian này. Sau đó mình gia nhập công ty mới KBTGVN, và điều chỉnh lại thời gian làm việc theo hướng cân bằng và hiệu quả hơn. Dạo gần đây thì mình đang tìm hiểu sâu hơn và thực hành làm việc sâu, để nâng cao năng suất và sử dụng hiệu quả thời gian hơn nữa. Mục tiêu là giảm thời lượng này so với năm 2022, nhưng tăng chất lượng lên để tăng thu nhập. Hiệu suất làm việc sâu đang thực hành những tuần đầu tiên là khoảng 65%, 53%,...
++ Học tập 256h (4%):
+  Thời lượng học tập chuyên ngành đã giảm lại so với 2022, do mình ưu tiên thời gian cho công việc, gia đình và những trải nghiệm đặc biệt đã thay đổi nhận thức. Mình vẫn sẽ tiếp tục bố trí thời gian để nâng cao kiến thức trong lĩnh vực chuyên môn, trong đó mục tiêu quan trọng nhất là hoàn thành luận văn thạc sĩ. Nói chung phần này không cần thiết phải quá thúc ép bản thân tránh tạo áp lực, nhưng không nên buông thả quá mức dẫn đến lãng phí thời gian và giảm năng lực cạnh tranh. Đây cũng là hoạt động yêu thích của mình để khám phá những kiến thức mới mẻ trong ngành.
++ Đi lại 235h (4%):
+  Thời lượng này mình đã cam kết giảm thiểu đi để dành nguồn lực cho các phần việc bên trên!
++ Mối quan hệ 202h (4%):
+  Đã tăng được thời gian phần này lên, tức gặp gỡ và trao đổi, giao lưu chia sẻ nhiều hơn với đồng nghiệp, bạn bè. Bản chất hướng nội của mình không có xu hướng dành nhiều hơn lượng thời gian cho hoạt động này.
++ Sách 196h (3%):
+  Đọc thêm được nhiều sách, khả năng đọc được cải thiện, có chọn lọc hơn với lượng thời gian tương đương.
++ Thể dục 167h (3%):
+  Ít tập chạy bộ lại hơn, có khoảng thời gian bị đau lưng phải nghỉ tập để điều trị vào tháng 8. Cộng thêm việc rời đội bóng cũ cũng ảnh hưởng đến các hoạt động thể thao yêu thích của mình.
++ Âm nhạc 33h (1%):
+  Phần này là bỏ lơ nhiều nhất, vì vẫn chưa có nhiều động lực để nâng cao kỹ năng đàn đúm, tuy nhiên mình vẫn đang cố duy trì cảm giác tay để không bị mai một kỹ năng. Đây là một khoảng đầu tư để duy trì đam mê, mà chưa biết tương lai sẽ sắp xếp kế hoạch để cải thiện như thế nào.
+
+## Notes:
+4 tháng cuối năm 2023 khả năng cũng sẽ diễn ra tương tự với tỉ lệ phân bổ như trên. Đầu tháng 9 này mình và người yêu sẽ có một chuyến du lịch Malaysia 4 ngày 3 đêm, khá tốn kém nhưng hi vọng là sẽ thu lượm được nhiều điều hay ho để viết thêm sau chuyến đi.
